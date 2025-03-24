@@ -16,3 +16,8 @@ ENV/
 env.bak/
 venv.bak/
 
+# Folders
+01_Catalogue/
+NRU_share/
+tmp/
+PN*/
